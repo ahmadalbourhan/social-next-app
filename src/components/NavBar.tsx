@@ -8,7 +8,7 @@ async function Navbar() {
   const user = await currentUser();
   if (user) await syncUser(); // POST
 
-  console.log(user);
+  // console.log(user);
 
   return (
     <nav className="sticky top-0 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60 z-50">
