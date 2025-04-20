@@ -5,10 +5,19 @@
 /.pnp
 .pnp.js
 .yarn/install-state.gz
+     
+
+# Ignore API test 
+/src/app/api/tasks
+/src/app/tasks
+
+
+# uploadthing did not work properly
+/src/app/api/uploadthing
+/src/lib/uploadthing.ts
 
 # testing
 /coverage
-
 # next.js
 /.next/
 /out/
