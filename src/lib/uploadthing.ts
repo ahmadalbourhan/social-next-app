@@ -1,3 +1,5 @@
+// https://uploadthing.com
+// follow the Docs
 import type { OurFileRouter } from "@/app/api/uploadthing/core";
 import { generateUploadButton, generateUploadDropzone } from "@uploadthing/react";
 
