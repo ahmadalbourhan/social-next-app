@@ -13,8 +13,8 @@
 
 
 # uploadthing did not work properly
-/src/app/api/uploadthing
-/src/lib/uploadthing.ts
+# /src/app/api/uploadthing
+# /src/lib/uploadthing.ts
 
 # testing
 /coverage
